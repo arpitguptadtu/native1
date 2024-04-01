@@ -38,7 +38,8 @@ const styles = StyleSheet.create({
         marginHorizontal:16
     },
     elevatedCard:{
-        backgroundColor:'#FFFFFF',
+        // backgroundColor:'#FFFFFF',
+        backgroundColor:'#CAD5E2',
         elevation:3,
         shadowOffset:{
             height:1,
@@ -55,6 +56,7 @@ const styles = StyleSheet.create({
         
         flex:1,
         flexGrow:1,
+        paddingHorizontal:8
     },
     cardTitle:{
         // color:'#FFFFFF',
